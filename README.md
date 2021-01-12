@@ -9,10 +9,10 @@ to trait evolution." _Nature Communications_ (in press)
 ## Generating structural variant calls
 We generated structural variant calls with short reads for all of the libraries
 listed in `library_list.txt`, using two short-read SV-callers:
-(manta)[https://github.com/Illumina/manta] and
-(lumpy)[https://github.com/arq5x/lumpy-sv]. For lumpy, we used the
-(smoove)[https://github.com/brentp/smoove] pipeline as recommended.
-(nextflow)[https://www.nextflow.io/] workflows for both are in
+[manta](https://github.com/Illumina/manta) and
+[lumpy](https://github.com/arq5x/lumpy-sv). For lumpy, we used the
+[smoove](https://github.com/brentp/smoove) pipeline as recommended.
+[nextflow](https://www.nextflow.io/) workflows for both are in
 `1-generate-sv-calls`. Please refer to the webpages for these software packages
 for requirements and installation instructions.
 
