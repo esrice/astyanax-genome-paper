@@ -4,7 +4,7 @@ Scripts and workflows used in Warren et al. (2021)
 This repository contains scripts and workflow used to analyze deletions in the
 paper: Warren et al. (2021) "A chromosome level genome of _Astyanax mexicanus_
 surface fish for comparing population-specific genetic differences contributing
-to trait evolution." _Nature Communications_ (in press)
+to trait evolution." _Nature Communications_ 12:1447.
 
 ## Generating structural variant calls
 We generated structural variant calls with short reads for all of the libraries
